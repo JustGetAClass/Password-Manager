@@ -18,3 +18,5 @@ The Password Manager can save the users email and password to a particular websi
 - pyperclip module
 - tkinter module
 - Messagebox
+
+[![CodeFactor](https://www.codefactor.io/repository/github/justgetaclass/password-manager/badge)](https://www.codefactor.io/repository/github/justgetaclass/password-manager)
