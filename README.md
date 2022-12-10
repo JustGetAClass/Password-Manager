@@ -1,5 +1,5 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/justgetaclass/password-manager/badge)](https://www.codefactor.io/repository/github/justgetaclass/password-manager)
-# Password Manager
+# Password Manager ✔️
 
 The Password Manager can save the users email and password to a particular website
 
